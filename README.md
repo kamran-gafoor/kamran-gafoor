@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamran-gafoor&style=flat-square&color=blue" alt=""/>
+  </div>
 
 <!--
 **kamran-gafoor/kamran-gafoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
