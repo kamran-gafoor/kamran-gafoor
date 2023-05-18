@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
@@ -21,6 +20,10 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=kamran-gafoor&style=flat-square&color=blue" alt=""/>
   </div>
+  <h1>
+  hey there, It's me Abdul Gafoor Mohammed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **kamran-gafoor/kamran-gafoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
