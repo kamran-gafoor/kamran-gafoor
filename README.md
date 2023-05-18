@@ -20,8 +20,8 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=kamran-gafoor&style=flat-square&color=blue" alt=""/>
   </div>
-  <h1>
-  hey there, It's me Abdul Gafoor Mohammed
+  <h1 align="center">
+  Hey there, It's me Abdul Gafoor Mohammed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
