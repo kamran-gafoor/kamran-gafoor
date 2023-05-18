@@ -24,18 +24,19 @@
   Hey there, It's me Abdul Gafoor Mohammed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
+</div>
+---
 
-<!--
-**kamran-gafoor/kamran-gafoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
 
-Here are some ideas to get you started:
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on different projects as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 I’m currently learning MERN Stack project development
+- 👯 I’m looking to collaborate on Full Stack Project
+- 💬 Ask me about Java, Spring boot, Express, React, Angular, Node js, AWS
+- 📫 How to reach me: gafoor.kamran@gmail.com
+- ⚡ Fun fact: I love sports and would be up to discuss most of them anytime.
+
